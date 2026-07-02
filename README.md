@@ -33,44 +33,6 @@ I also build <strong>AI-powered automation workflows</strong> using n8n to strea
 
 ---
 
-## 🚀 Featured Projects
-
-### 📋 [Real-time Inventory Management System](https://github.com/Kim5Y/inventory-system)
-* Engineered a live dashboard using **SSE (Server-Sent Events)** and **MongoDB Change Streams** for instant stock updates, low-stock alerts, and expiration warnings.
-* Refactored a monolithic Express.js application into a modular Service-Controller pattern for better maintainability.
-* Implemented granular **RBAC** (SuperAdmin, Admin, Staff) and built comprehensive audit logging for system actions.
-* Secured endpoints with **JWT (Access & Refresh tokens)** and rate limiting.
-
-### ✍️ [Real-time Scalable Blog Platform (Backend)](https://github.com/Kim5Y/blog-site-updated-verison)
-* Refactored a monolithic backend into a Layered Architecture (Controller-Service) for scalability and testability.
-* Implemented real-time notifications, live comments, and threaded replies using **Socket.IO**.
-* Built a high-performance full-text search utilizing PostgreSQL `tsvector` and `tsquery`.
-* Integrated **Redis caching** for posts and user profiles, improving API response times by ~60%.
-* Developed a secure auth system featuring OTP verification, JWT sessions, and HttpOnly cookies.
-
-### 💬 [Distributed Chat & Messaging Microservices Platform](https://github.com/Kim5Y/nestjs-rabbitmq-microservices-chat)
-* Designed and deployed independent microservices (Auth, User, Chat) communicating via **RabbitMQ** for horizontal scalability.
-* Implemented secure authentication with **refresh token rotation** and RSA key signing for inter-service JWT verification.
-* Ensured data integrity using **Prisma transactions** across distributed operations.
-* Containerized the entire stack with **Docker** and **Docker Compose** for smooth development and deployment.
-
----
-
-## 💼 Work Experience
-
-### 🛠️ Freelance Backend Developer & Automation Engineer | *Self-Employed (2024 – Present)*
-* Developed robust backend systems and APIs using **Node.js**, **NestJS**, **Express.js**, and **PostgreSQL** for client projects.
-* Built workflow automations using **n8n** for integrations, notifications, data synchronization, and business process automation.
-* Designed scalable architectures incorporating authentication, RBAC, caching, and real-time communication features.
-* Collaborated directly with clients to gather requirements, debug production issues, and deliver maintainable solutions.
-
-### 🌍 Open Source Contributor | *Independent (2024 – Present)*
-* Contributed to multiple open-source projects across **JavaScript** and **TypeScript** ecosystems on GitHub.
-* Worked on bug fixes, feature implementations, documentation improvements, and codebase optimization.
-* Collaborated through pull requests, issue discussions, and code reviews using Git and GitHub workflows.
-
----
-
 ## ⚙️ My Favorite Tools & Technologies
 
 > Tools and technologies that I have worked with and am interested in
@@ -113,53 +75,53 @@ I also build <strong>AI-powered automation workflows</strong> using n8n to strea
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="NestJS" />
+      <img src="icons/nestjs.svg" width="65" height="65" alt="NestJS" />
       <br>NestJS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+      <img src="icons/express.svg" width="65" height="65" alt="Express" />
       <br>Express
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <img src="icons/postgresql.svg" width="65" height="65" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <img src="icons/mongodb.svg" width="65" height="65" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+      <img src="icons/redis.svg" width="65" height="65" alt="Redis" />
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prisma" width="65" height="65" alt="Prisma" />
+      <img src="icons/prisma.svg" width="65" height="65" alt="Prisma" />
       <br>Prisma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <img src="icons/git.svg" width="65" height="65" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+      <img src="icons/linux.svg" width="65" height="65" alt="Linux" />
       <br>Linux
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" alt="GitHub Actions" />
+      <img src="icons/githubactions.svg" width="65" height="65" alt="GitHub Actions" />
       <br>GH Actions
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+      <img src="icons/postman.svg" width="65" height="65" alt="Postman" />
       <br>Postman
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" width="65" height="65" alt="RabbitMQ" />
+      <img src="icons/rabbitmq.svg" width="65" height="65" alt="RabbitMQ" />
       <br>RabbitMQ
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kafka" width="65" height="65" alt="Kafka" />
+      <img src="icons/kafka.svg" width="65" height="65" alt="Kafka" />
       <br>Kafka
     </td>
     <td align="center" width="96">
@@ -171,11 +133,11 @@ I also build <strong>AI-powered automation workflows</strong> using n8n to strea
       <br>Jest
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+      <img src="icons/vscode.svg" width="65" height="65" alt="VS Code" />
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+      <img src="icons/figma.svg" width="65" height="65" alt="Figma" />
       <br>Figma
     </td>
   </tr>
@@ -185,65 +147,16 @@ I also build <strong>AI-powered automation workflows</strong> using n8n to strea
 
 ## 📊 GitHub Stats
 
-<details>
-  <summary>📅 Isometric Contribution Calendar</summary>
-  <br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kim5Y&show_icons=true&theme=discord&hide_border=true" alt="Ibrahim's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim5Y&layout=compact&theme=discord&hide_border=true" alt="Ibrahim's Top Languages" width="49%" />
+</div>
 
-  > Full-year 3D isometric view of all commits — auto-generated by [lowlighter/metrics](https://github.com/lowlighter/metrics)
+<br/>
 
-  <div align="center">
-    <img width="100%" src="/metrics.plugin.isocalendar.svg" alt="Isometric Contribution Calendar" />
-  </div>
-  <br/>
-</details>
-
-<details>
-  <summary>🎟️ Issues & Pull Requests Follow-Up</summary>
-  <br/>
-
-  > Open/closed ratio of issues and PRs across all repositories
-
-  <div align="center">
-    <img width="100%" src="/metrics.plugin.followup.svg" alt="Follow-up Issues and PRs" />
-  </div>
-  <br/>
-</details>
-
-<details>
-  <summary>✨ Stargazers Evolution</summary>
-  <br/>
-
-  > Growth of stars across repositories over time
-
-  <div align="center">
-    <img width="100%" src="/metrics.plugin.stargazers.svg" alt="Stargazers Evolution" />
-  </div>
-  <br/>
-</details>
-
-<details>
-  <summary>📌 Starred Topics & Mastered Technologies</summary>
-  <br/>
-
-  > Topics I follow on GitHub, displayed as mastered technology badges
-
-  <div align="center">
-    <img width="100%" src="/metrics.plugin.topics.svg" alt="Starred Topics" />
-  </div>
-  <br/>
-</details>
-
-<details>
-  <summary>🎫 Gists Stats</summary>
-  <br/>
-
-  > Stats about my public gists
-
-  <div align="center">
-    <img width="100%" src="/metrics.plugin.gists.svg" alt="Gists" />
-  </div>
-  <br/>
-</details>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kim5Y&theme=discord&bg_color=0f0f0f&color=6e40c9&line=6e40c9&point=ffffff&hide_border=true" alt="Ibrahim's Activity Graph" width="100%" />
+</div>
 
 ---
 
