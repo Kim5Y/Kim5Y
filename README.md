@@ -20,7 +20,7 @@
 ## 🧑💻 About Me
 
 <p align="justify">
-Welcome to my GitHub! I'm <strong>Ibrahim Kim (Kimzy)</strong> — a backend engineer based in <strong>Jos, Plateau State, Nigeria 🇳🇬</strong>. I focus on building <strong>scalable, reliable systems</strong>, working primarily with <strong>Node.js</strong>, <strong>NestJS</strong>, and <strong>TypeScript</strong> to design clean, maintainable APIs, microservices, and data layers.
+Welcome to my GitHub! I'm <strong>Ibrahim Kim (Kimzy)</strong> — A backend engineer based in <strong>Jos, Plateau State, Nigeria 🇳🇬</strong>. I focus on building <strong>scalable, reliable systems</strong>, working primarily with <strong>Node.js</strong>, <strong>NestJS</strong>, and <strong>TypeScript</strong> to design clean, maintainable APIs, microservices, and data layers.
 <br/><br/>
 I also build <strong>AI-powered automation workflows</strong> using n8n to streamline processes and integrate intelligent systems into real-world products.
 </p>
